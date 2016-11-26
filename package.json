@@ -23,6 +23,7 @@
     "babel-polyfill": "6.8.0",
     "bootstrap": "3.3.6",
     "jquery": "2.2.3",
+    "lodash": "https://registry.npmjs.org/lodash/-/lodash-4.9.0.tgz",
     "postcss": "https://registry.npmjs.org/postcss/-/postcss-5.0.19.tgz",
     "react": "15.0.2",
     "react-dom": "15.0.2",
